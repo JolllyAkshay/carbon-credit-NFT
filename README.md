@@ -1,5 +1,3 @@
-> Update: You should use `ipfs://` instead of `https://ipfs.io/` for your tokenURI
-
 # C-Block: Marketplace for carbon-credit NFTs from forestry projects
 
 <h1 align="center">
@@ -96,6 +94,17 @@ The project is created in parts towards the submission for the Chainlink Hackath
 * ["Getting Started with Brownie"](https://medium.com/@iamdefinitelyahuman/getting-started-with-brownie-part-1-9b2181f4cb99) is a good tutorial to help you familiarize yourself with Brownie.
 * For more in-depth information, read the [Brownie documentation](https://eth-brownie.readthedocs.io/en/stable/).
 
+## The Path Ahead
+Though, we have made substantial progress towards our end goal of a decentralised Carbon Credit Marketplace, there is still 'Miles to go'. Some of the updates / initiatives that we have in the works - 
+* Implementing collaboration with off chain and other on chain Carbon Credit Marketplace to further improve the liquidity within the Market. 
+* To plan for the future - We understand the current voluntary Carbon Credit Market will grow substantially if not exponentially in the coming future. This would call for the current model to expnand to ther avenues of Carbon Capture, say industrial carbon capture, renewable energy projects, advanced technological projects.
+* Since, the active Carbon Capture projects could be highly volatile in terms of actual output. We need to implement a methodology to source, manage and create a pool or repository of Carbon Credits to cover any potential shortfall in production. 
+
+  <h1 align="center">
+  
+  ![image](https://drive.google.com/uc?export=view&id=1UCpQn7Cb-843Uiwee69sD6rwGlGlLTHz)
+
+  </h4>  
 ## License
 
 This project is licensed under the [MIT license](LICENSE).
