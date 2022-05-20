@@ -28,9 +28,17 @@ Carbon offsets in a Nut Shell, is the reduction or removal of emissions of carbo
     
   <h1 align="center">
   
-  ![image](https://drive.google.com/uc?export=view&id=1T0axKQpcUirAld_vUQIfSO8_8ow3myJM)
+  ![image](https://drive.google.com/uc?export=view&id=1csoSuH-r4chefz4xfpMfNUeBXVe0typl)
 
   </h4>
+    
+  <h1 align="center">
+  
+  ![image](https://drive.google.com/uc?export=view&id=1wfObw7mFrq9fMmkYQ7E9CVGaqOYF3v4Z)
+
+  </h4>
+    
+
 </div>
 <p><font size="3">
 
